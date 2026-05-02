@@ -18,8 +18,8 @@
 
 ## 🌟 The Story Behind SaSiE
 
-I am Ezhilmani S — System Administrator at an educational institution
-in Tamil Nadu, India. Every day I watched a staff member walk to the
+I am Ezhilmani S — System Administrator, RJ, DJ, Tamil Poet, from India. 
+Every day I watched a staff member walk to the
 bell manually, ring it, and walk back — ten times a day, every working
 day. One missed ring meant late classes. One wrong timing meant
 confusion across the campus.
