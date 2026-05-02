@@ -178,13 +178,22 @@ Contact: *(sasiezhilmani@gmail.com / +91 9092 566 569)*
 
 ## ☕ Support This Project
 
+## ☕ Support This Project
+
 If SaSiE Bell System helped your school, consider supporting
 the work that went into building it.
 
 Every contribution, however small, helps me continue building
 free tools for schools and educational institutions.
 
-*(Add your Buy Me a Coffee Upi ID : sasie@scb)*
+**💳 UPI Payment (India)**
+sasie@scb
+*Scan any UPI app — GPay, PhonePe, Paytm, or any bank app.*
+*Any amount. Even ₹10 means someone cared. Thank you.*
+
+**🌍 International Support**
+Email me at sasiezhilmani@gmail.com
+I will share a payment link.
 
 ---
 
