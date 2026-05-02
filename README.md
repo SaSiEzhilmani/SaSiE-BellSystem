@@ -141,10 +141,10 @@ Place your logo as `logo.png` in the same folder.
 
 ## 📊 Live Deployment
 
-✅ Deployed at an educational institution in Sriperumbudur, Tamil Nadu
+✅ Deployed at an institution 
 ✅ 10 bells automated per day
-✅ Schedule: 08:30 AM to 02:45 PM
-✅ System uptime: 08:00 AM to 04:00 PM daily
+✅ Schedule: 08:00 AM to 03:00 PM
+✅ System uptime: 07:30 AM to 04:30 PM daily
 ✅ Previously manual — now fully automated
 ✅ Zero missed bells since deployment
 
@@ -155,7 +155,6 @@ Place your logo as `logo.png` in the same folder.
 - [ ] Mobile app remote control
 - [ ] WhatsApp / SMS notification on bell ring
 - [ ] Multi-campus / multi-relay support
-- [ ] Web-based schedule management
 - [ ] Cloud activity log
 - [ ] Android app for manual override
 
