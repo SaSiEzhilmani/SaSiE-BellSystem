@@ -11,7 +11,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)]()
 [![Language](https://img.shields.io/badge/Language-Python-yellow.svg)]()
 [![Status](https://img.shields.io/badge/Status-Live%20Deployment-brightgreen.svg)]()
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19972626.svg)](https://doi.org/10.5281/zenodo.19972626)
 </div>
 
 ---
